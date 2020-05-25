@@ -2,7 +2,6 @@
 	"name": "@ctx-core/jsdoc",
 	"version": "2.0.16",
 	"description": "ctx-core jsdoc",
-	"type": "module",
 	"scripts": {
 		"jsdoc": "./bin/jsdoc.sh",
 		"jsdoc-cli": "./bin/jsdoc-cli.sh",
