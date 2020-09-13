@@ -6,7 +6,7 @@
 		"jsdoc": "./bin/jsdoc.sh",
 		"jsdoc-cli": "./bin/jsdoc-cli.sh",
 		"jsdoc-watch": "./bin/jsdoc-watch.sh",
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"exec": "$@"
 	},
 	"repository": {
 		"type": "git",
