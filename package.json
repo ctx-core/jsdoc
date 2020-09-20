@@ -20,10 +20,10 @@
 		"exec": "$@",
 		"jsdoc": "./bin/jsdoc.sh",
 		"jsdoc-cli": "./bin/jsdoc-cli.sh",
-		"jsdoc-watch": "./bin/jsdoc-watch.sh"
+		"jsdoc-watch": "./bin/jsdoc-watch.sh",
+		"build": "npm run compile"
 	},
 	"publishConfig": {
 		"access": "public"
-	},
-	"gitHead": "87f50407bed4d3139bcbfad8d44911b5495162a1"
+	}
 }
