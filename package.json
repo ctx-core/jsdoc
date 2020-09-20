@@ -17,11 +17,11 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"scripts": {
+		"build": "npm run compile",
 		"exec": "$@",
 		"jsdoc": "./bin/jsdoc.sh",
 		"jsdoc-cli": "./bin/jsdoc-cli.sh",
-		"jsdoc-watch": "./bin/jsdoc-watch.sh",
-		"build": "npm run compile"
+		"jsdoc-watch": "./bin/jsdoc-watch.sh"
 	},
 	"publishConfig": {
 		"access": "public"
