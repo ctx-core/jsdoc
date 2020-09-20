@@ -23,6 +23,9 @@
 		"jsdoc-cli": "./bin/jsdoc-cli.sh",
 		"jsdoc-watch": "./bin/jsdoc-watch.sh"
 	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
 	"publishConfig": {
 		"access": "public"
 	}
