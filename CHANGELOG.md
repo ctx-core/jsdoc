@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 2.0.32
+
+### Patch Changes
+
+- version bump
+
 ## 2.0.31
 
 ### Patch Changes
