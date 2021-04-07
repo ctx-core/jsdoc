@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 2.0.33
+
+### Patch Changes
+
+- typescript: ^4.2.3 -> ^4.2.4
+
 ## 2.0.32
 
 ### Patch Changes
