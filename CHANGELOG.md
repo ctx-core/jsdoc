@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 2.1.3
+
+### Patch Changes
+
+- fix: npm run build
+
 ## 2.1.2
 
 ### Patch Changes
