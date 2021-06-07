@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 2.1.5
+
+### Patch Changes
+
+- version bump: run build
+
 ## 2.1.4
 
 ### Patch Changes
