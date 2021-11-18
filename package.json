@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jsdoc",
-	"version": "3.0.9",
+	"version": "3.0.10",
 	"description": "ctx-core jsdoc",
 	"type": "module",
 	"keywords": [
@@ -26,7 +26,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"typescript": "^4.4.4"
+		"typescript": "^4.5.2"
 	},
 	"publishConfig": {
 		"access": "public",
