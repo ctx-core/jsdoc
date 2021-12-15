@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jsdoc",
-	"version": "3.0.10",
+	"version": "3.0.11",
 	"description": "ctx-core jsdoc",
 	"type": "module",
 	"keywords": [
@@ -31,5 +31,6 @@
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	}
+	},
+	"svelte": "./dist/index.js"
 }
