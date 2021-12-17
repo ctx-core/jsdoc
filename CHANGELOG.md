@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 3.0.13
+
+### Patch Changes
+
+- fix: build
+
 ## 3.0.12
 
 ### Patch Changes

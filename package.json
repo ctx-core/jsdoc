@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jsdoc",
-	"version": "3.0.12",
+	"version": "3.0.13",
 	"description": "ctx-core jsdoc",
 	"type": "module",
 	"exports": {
@@ -22,6 +22,7 @@
 	"author": "Brian Takita",
 	"scripts": {
 		"build": ":",
+		"clean": ":",
 		"exec": "$@",
 		"jsdoc": "./bin/jsdoc.sh",
 		"jsdoc-cli": "./bin/jsdoc-cli.sh",
