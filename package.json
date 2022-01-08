@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jsdoc",
-	"version": "3.0.14",
+	"version": "3.0.15",
 	"description": "ctx-core jsdoc",
 	"type": "module",
 	"exports": {
@@ -36,5 +36,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }
