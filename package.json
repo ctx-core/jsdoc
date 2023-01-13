@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jsdoc",
-	"version": "3.0.15",
+	"version": "3.0.16",
 	"description": "ctx-core jsdoc",
 	"type": "module",
 	"exports": {
@@ -29,7 +29,7 @@
 		"jsdoc-watch": "./bin/jsdoc-watch.sh"
 	},
 	"devDependencies": {
-		"rimraf": "^3.0.2",
+		"rimraf": "^4.0.1",
 		"typescript": "next"
 	},
 	"publishConfig": {

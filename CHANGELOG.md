@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 3.0.16
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 3.0.15
 
 ### Patch Changes
