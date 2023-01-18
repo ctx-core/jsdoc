@@ -29,7 +29,7 @@
 		"jsdoc-watch": "./bin/jsdoc-watch.sh"
 	},
 	"devDependencies": {
-		"rimraf": "^4.1.0",
+		"rimraf": "^4.1.1",
 		"typescript": "next"
 	},
 	"publishConfig": {
