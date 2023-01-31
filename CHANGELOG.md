@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 3.0.18
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 3.0.17
 
 ### Patch Changes
