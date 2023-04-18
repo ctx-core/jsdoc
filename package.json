@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jsdoc",
-	"version": "3.0.32",
+	"version": "3.0.33",
 	"description": "ctx-core jsdoc",
 	"type": "module",
 	"exports": {
