@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 3.0.38
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+
 ## 3.0.37
 
 ### Patch Changes
