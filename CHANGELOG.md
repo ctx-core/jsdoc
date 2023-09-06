@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 3.0.39
+
+### Patch Changes
+
+- version bump
+
 ## 3.0.38
 
 ### Patch Changes
