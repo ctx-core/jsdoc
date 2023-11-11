@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/jsdoc",
-	"version": "3.0.39",
+	"version": "3.1.0",
 	"description": "ctx-core jsdoc",
 	"type": "module",
 	"exports": {
@@ -26,7 +26,8 @@
 		"exec": "$@",
 		"jsdoc": "./bin/jsdoc.sh",
 		"jsdoc-cli": "./bin/jsdoc-cli.sh",
-		"jsdoc-watch": "./bin/jsdoc-watch.sh"
+		"jsdoc-watch": "./bin/jsdoc-watch.sh",
+		"test": ":"
 	},
 	"devDependencies": {
 		"typescript": "next"
@@ -35,6 +36,5 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js",
 	"sideEffects": false
 }
