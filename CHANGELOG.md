@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 3.1.2
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 3.1.1
 
 ### Patch Changes
