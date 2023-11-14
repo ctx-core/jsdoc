@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 3.1.1
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 3.1.0
 
 ### Minor Changes
