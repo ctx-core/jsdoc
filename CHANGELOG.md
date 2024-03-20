@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 3.1.3
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 3.1.2
 
 ### Patch Changes
