@@ -1,5 +1,11 @@
 # @ctx-core/jsdoc
 
+## 3.1.4
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 3.1.3
 
 ### Patch Changes
